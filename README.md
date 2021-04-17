@@ -25,7 +25,7 @@ Students are free to add new capabilities to the app.
 
 # Indicator
 
-We use a simple strategy to roughly estimate the probability of getting COVID-19. Normally, the more activities people have, the higher risk they would get. Thus, we retrieve all the logs a user has. Then, we calculate a total score (Logically speaking, high-risk activities would have higher scores). The higher score users have, the greater probability they get.
+We use a simple strategy to roughly estimate the probability of getting COVID-19. Normally, the more activities people have, the higher risk they would get. Thus, we retrieve all the logs a user has. Then, we calculate a total score for each activity record (Logically speaking, high-risk activities would have higher scores). The higher score users have, the greater probability they get.
 
 We divide risk into 5 levels:
 
