@@ -27,7 +27,7 @@ Students are free to add new capabilities to the app.
 
 We use a simple strategy to roughly estimate the probability of getting COVID-19. Normally, the more activities people have, the higher risk they would get. Thus, we retrieve all the logs a user has. Then, we calculate a total score (Logically speaking, high-risk activities would have higher scores). The higher score users have, the greater probability they get.
 
-There are some levels of risk:
+We divide risk into 5 levels:
 
 -- very low
 
