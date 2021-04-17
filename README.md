@@ -38,3 +38,5 @@ We divide risk into 5 levels:
 -- High
 
 -- Extremely high
+
+Users can enter the Indicator page to get their own probablities (At least they have some log records).
