@@ -29,12 +29,12 @@ We use a simple strategy to roughly estimate the probability of getting COVID-19
 
 We divide risk into 5 levels:
 
--- very low
+-- Very low
 
--- low
+-- Low
 
--- medium 
+-- Medium 
 
--- high
+-- High
 
--- extremely high
+-- Extremely high
