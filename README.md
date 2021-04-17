@@ -29,14 +29,14 @@ We use a simple strategy to roughly estimate the probability of getting COVID-19
 
 We divide risk into 5 levels:
 
--- Very low
+•	Very low
 
--- Low
+•	Low
 
--- Medium 
+•	Medium 
 
--- High
+•	High
 
--- Extremely high
+•	Extremely high
 
 Users can enter the Indicator page to get their own probablities (At least they have some log records).
